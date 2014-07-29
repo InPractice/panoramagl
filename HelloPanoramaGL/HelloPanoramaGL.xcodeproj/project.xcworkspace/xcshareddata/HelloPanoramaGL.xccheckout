@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6E0CF3B1-357A-456B-999A-7C92637C5FD7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HelloPanoramaGL</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7EF54BBA-FE97-4F49-9FB5-732E8FB48063</key>
+		<string>ssh://github.com/JumpThetrace/panoramagl.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HelloPanoramaGL/HelloPanoramaGL.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7EF54BBA-FE97-4F49-9FB5-732E8FB48063</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/JumpThetrace/panoramagl.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7EF54BBA-FE97-4F49-9FB5-732E8FB48063</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7EF54BBA-FE97-4F49-9FB5-732E8FB48063</string>
+			<key>IDESourceControlWCCName</key>
+			<string>panoramagl</string>
+		</dict>
+	</array>
+</dict>
+</plist>
